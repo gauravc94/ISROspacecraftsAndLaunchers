@@ -1,0 +1,29 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.label-select-type, .select-type {
+    margin-top: 50px;
+    font-size: 1.5rem;
+}
+
+.table {
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-collapse: collapse;
+}
+
+.t-cell {
+    padding: 25px;
+    text-align: left;
+    border: 3px solid white;
+}
+
+.error-display {
+    display: none;
+    color: red;
+}
